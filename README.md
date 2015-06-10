@@ -64,7 +64,7 @@ you can find usage example of the Path and PathVariable annotations
 
   --http://localhost:8080/messengerRestApi/webapi/messages/1/comments/
   
-  --then edit pretty editor like:
+  --then edit Raw editor like:
   
     {
       "author": "OGUZHAN COM",
