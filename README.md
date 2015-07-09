@@ -7,7 +7,7 @@
 --It include 3 models they are: Profile, Comments and Message. Comments model is depend on message id. So that
 you can find usage example of the Path and PathVariable annotations
 
---Http Responses are JSON
+--Http Responses are JSON--
 
 #Usage of RestApi on the messages
 
